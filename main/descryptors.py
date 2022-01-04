@@ -22,4 +22,3 @@ class Port:
 
     def __set_name__(self, owner, name):
         self.name = name
-
